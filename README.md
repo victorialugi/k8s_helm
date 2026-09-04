@@ -10,8 +10,8 @@
 - [webapp/templates/backend-deployment.yaml](./webapp/templates/backend-deployment.yaml)
 - [webapp/templates/backend-service.yaml](./webapp/templates/backend-service.yaml)
 
-![]()
-![]()
+![1.png](https://github.com/victorialugi/k8s_helm/blob/main/1.png)
+![1:1.png](https://github.com/victorialugi/k8s_helm/blob/main/1%3A1.png)
 
 
 ## Задание 2. 
@@ -21,4 +21,4 @@
 - `app-v2` в том же `namespace=app1`, образ `nginx:1.28`
 - `app-v3` в `namespace=app2`, образ `nginx:1.29`
 
-![]()
+![2.png](https://github.com/victorialugi/k8s_helm/blob/main/2.png)
